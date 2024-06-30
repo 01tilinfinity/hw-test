@@ -41,3 +41,15 @@
   </ul>
 </div>
 
+<h1>@01tilinfinity의 다른 작업물도 보고 싶다면?</h1>
+<div>
+  <ul>
+    <li>
+      <a href="https://huggingface.co/canho" style="text-decoration:none;">
+        <button type="button">Hugging Face</button>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
