@@ -5,7 +5,8 @@
 
 <div>서울시 열린데이터광장 실시간 공유자전거 대여정보 url : https://data.seoul.go.kr/dataList/OA-15493/A/1/datasetView.do</div>
 
-<h1>이 웹, 어떤 기능이 있나요></h1>
+<h1>이 웹, 어떤 기능이 있나요?</h1>
+<p>  </p>
 <div>
   <div>아래와 같은 기능들을 지원합니다 😽</div>
 <ul>
@@ -20,6 +21,7 @@
   </li>
 </ul>
 </div>
+
 <h1>@01tilinfinity, 뭐하는 사람인가요?</h1>
 <p>고려대학교 </p>
 
