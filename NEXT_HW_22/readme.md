@@ -30,9 +30,7 @@
       고려대학교 국어국문학과 20학번 🦕(화석) 
     </li>
     <li>
-      MBTI:
-      <img width="401" alt="image" src="https://github.com/01tilinfinity/hw-test/assets/137471403/9bb64ba6-7168-4948-b983-04aa55c71f4d">
-      (그러나 MBTI는 어디까지나 재미요소일 뿐 사람은 만나보고 겪어봐야 안다고 생각함!)
+      MBTI: INTP (그러나 MBTI는 어디까지나 재미요소일 뿐 사람은 만나보고 겪어봐야 안다고 생각함!)
     </li>
     <li>
       Skills : PyTorch, Python, C, Docker, (+ Django, React, JS (Will be added soon...🤗))
